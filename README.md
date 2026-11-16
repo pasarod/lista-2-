@@ -1,5 +1,8 @@
 # 🐍 Exercícios de Listas em Python
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge)
+
 Resolução de uma lista com **20 exercícios práticos** sobre manipulação de listas em Python.
 
 > **Abordagem:** O foco principal foi treinar a lógica fundamental usando laços (`for`, `while`), condicionais (`if/else`) e manipulação manual de índices — evitando atalhos prontos como `sum()`, `max()`, `min()`, `index()` e `set()` sempre que possível.
