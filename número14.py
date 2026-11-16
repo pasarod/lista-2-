@@ -1,0 +1,9 @@
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+quadrados = [x ** 2 for x in numeros]
+pares = [x for x in numeros if x % 2 == 0]
+maiores_que_5 = [x for x in numeros if x > 5]
+
+print("Quadrados:", quadrados)
+print("Pares:", pares)
+print("Maiores que 5:", maiores_que_5)
